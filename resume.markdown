@@ -3,5 +3,8 @@ layout: default
 title: Resume
 permalink: /resume/
 ---
+![](/resume_p1.png)
+![](/resume_p2.png)
 
-Resume here
+
+[Check out my resume](Gabriel_Sherman_Resume.docx)
