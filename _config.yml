@@ -31,8 +31,7 @@ avatar: /IMG_3359.jpg
 plugins:
   - jekyll-remote-theme
 
-remote_theme: ngzhio/jekyll-theme-hamilton
-
+remote_theme: ankitsultana/researcher@gem
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
