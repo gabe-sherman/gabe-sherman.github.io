@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="me.jpg">
 
-Hello! I'm a first-year Ph.D. student at the University of Utah performing research in computer security.
+First-year Ph.D. student at the University of Utah performing research in computer security.
 
 
 Outside of academia, I enjoy spending my time snowboarding, hiking, and more!
@@ -23,7 +23,7 @@ Outside of academia, I enjoy spending my time snowboarding, hiking, and more!
 
 ## Research Interest
 
-My research is based around fuzz testing, and I’m passionate about proactively protecting widely used software. My work focuses on automatic harness generation for open source libraries. I also earned my undergrad from the University of Utah, where I discovered my interest in cybersecurity and began researching in the field.
+My research focuses on fuzz testing, with a strong passion for proactively securing widely used software. I am particularly interested in extending fuzz testing to previously unexplored areas. My current work centers on automating harness generation for open-source libraries. Some of the bugs I have found can be found here: https://futures.cs.utah.edu/bugs/?search=gabe+sherman
 
 ## Publications
 1. [**No Harness, No Problem: Oracle-guided Harnessing for Auto-generating C API Fuzzing Harnesses**](https://users.cs.utah.edu/~snagy/papers/25ICSE-b.pdf)
