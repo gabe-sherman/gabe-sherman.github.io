@@ -34,7 +34,7 @@ My research is based around fuzz testing, and I’m passionate about proactively
 
 ## Invited Talks & Articles
 
-Title | Location | Date 
+| | | | 
 ------|----------| ----
 **Introduction to Fuzzing** | University of Utah Cybersecurity Club | 03/2025
 **Automated Bug Finding** | Kahlert School of Computing | 09/2024
