@@ -12,15 +12,13 @@ Hello! I'm a first-year Ph.D. student at the University of Utah performing resea
 Outside of academia, I enjoy spending my time snowboarding, hiking, and more!
 
 ## Contact
-* Email: [gabesherman6@gmail.com](mailto: gabesherman6@gmail.com)
+**Email**: [gabesherman6@gmail.com](mailto:gabesherman6@gmail.com)
 
-* Phone: [+1-2073071490](tel:+1-2073071490)
-
----
-
-## Social
 **X**: [@gabe_sherman6](https://x.com/gabe_sherman6)
+
 **Bluesky**: [@gabriel-sherman](https://bsky.app/profile/gabriel-sherman.bsky.social)
+
+**Linkedin**: [@gabe-sherman](https://www.linkedin.com/in/gabe-sherman-891200/)
 
 
 ## Research Interest
