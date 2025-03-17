@@ -33,10 +33,10 @@ My research is based around fuzz testing, and I’m passionate about proactively
     International Conference on Software Engineering(**ICSE '25**)
 
 ## Invited Talks & Articles
-| Title   | Location  | Date  |
-|---|---|---|
-| **Introduction to Fuzzing** | University of Utah Cybersecurity Club | 03/2025 |
-| **Automated Bug Finding** | Kahlert School of Computing | 09/2024 |
-| **Automated Harness Generation** | Mountain West Undergraduate Research Showcase | 11/2023 |
----
+
+Title | Location | Date 
+------|----------| ----
+**Introduction to Fuzzing** | University of Utah Cybersecurity Club | 03/2025
+**Automated Bug Finding** | Kahlert School of Computing | 09/2024
+**Automated Harness Generation** | Mountain West Undergraduate Research Showcase | 11/2023
 

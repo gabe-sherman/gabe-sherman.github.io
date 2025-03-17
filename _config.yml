@@ -28,7 +28,7 @@ github_username:  gabe-sherman
 skin: midnight
 avatar: /IMG_3359.jpg
 nav:
-  - name: "Resume"
+  - name: "CV"
     link: "GabrielShermanCV.pdf"
 
 plugins:
