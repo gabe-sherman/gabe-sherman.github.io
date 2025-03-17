@@ -27,6 +27,9 @@ url: "https://gabe-sherman.github.io/" # the base hostname & protocol for your s
 github_username:  gabe-sherman
 skin: midnight
 avatar: /IMG_3359.jpg
+nav:
+  -name: "CV"
+  link: "GabrielShermanCV.pdf"
 
 plugins:
   - jekyll-remote-theme
