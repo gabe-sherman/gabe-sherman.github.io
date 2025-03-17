@@ -3,24 +3,12 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [gabesherman6@gmail.com](mailto: gabesherman6@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
-
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+* Phone: [+1-2073071490](tel:+1-2073071490)
 
 ---
 
 ## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Twitter][@gabe_sherman6] (https://x.com/gabe_sherman6)
+2. [Bluesky][@gabriel-sherman] (https://bsky.app/profile/gabriel-sherman.bsky.social)
