@@ -122,9 +122,9 @@
   <meta property="og:title" content="{{ title }}">
   <meta property="og:description" content="{{ description }}">
 
-  {% if img != "" %}
+  <!-- {% if img != "" %}
   <meta property="og:image" content="{{ img | absolute_url }}">
-  {% endif %}
+  {% endif %} -->
 
   {% if page.id %}
   <meta property="og:type" content="article">
@@ -140,7 +140,7 @@
   <link rel="canonical" href="{{ page.url | absolute_url | strip_index }}">
   {% endif %}
 
-  {% if img != "" and img != site.avatar %}
+  <!-- {% if img != "" and img != site.avatar %}
   <meta name="twitter:card" content="summary_large_image">
   {% else %}
   <meta name="twitter:card" content="summary">
@@ -153,7 +153,7 @@
 
   {% if img != "" %}
   <meta name="twitter:image" content="{{ img | absolute_url }}">
-  {% endif %}
+  {% endif %} -->
 
   {% include matomo.html %}
 
