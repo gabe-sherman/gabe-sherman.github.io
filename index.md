@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Gabriel Sherman
-subtitle: Ph.D. Student, University of Utah | Computer Security & Fuzzing
+subtitle: Ph.D. Student, University of Utah | Computer Security
 ---
 
 <!-- <img src="me.jpg" alt="Gabriel Sherman" style="width:180px; border-radius:50%; margin-bottom:1em;"> -->
@@ -28,9 +28,9 @@ My research focuses on fuzz testing, with a strong passion for proactively secur
   </thead>
   <tbody>
     <tr>
-      <td>No Harness, No Problem: Oracle-guided Harnessing for Auto-generating C API Fuzzing Harnesses</td>
-      <td>International Conference on Software Engineering</td>
-      <td>04/2025</td>
+      <td>Checksec Anywhere: Checksec Without Boundaries</td>
+      <td>Trail of Bits Intern Showcase</td>
+      <td>07/2025</td>
     </tr>
     <tr>
       <td>Introduction to Fuzzing</td>
@@ -41,6 +41,11 @@ My research focuses on fuzz testing, with a strong passion for proactively secur
       <td>Automated Bug Finding</td>
       <td>Kahlert School of Computing</td>
       <td>09/2024</td>
+    </tr>
+    <tr>
+      <td>Automatic Harness Generation for C-based Libraries</td>
+      <td>Empite Hacking NYC</td>
+      <td>08/2024</td>
     </tr>
     <tr>
       <td>Automated Harness Generation</td>
