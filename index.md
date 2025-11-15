@@ -6,9 +6,12 @@ subtitle: Ph.D. Student, University of Utah | Computer Security
 
 <!-- <img src="me.jpg" alt="Gabriel Sherman" style="width:180px; border-radius:50%; margin-bottom:1em;"> -->
 
-## Research Interest
+## About Me
 
-My research focuses on fuzz testing, with a strong passion for proactively securing widely used software. I am particularly interested in extending fuzz testing to previously unexplored areas. My current work centers on automating harness generation for open-source libraries. Some of the bugs I have found can be found [here](https://futures.cs.utah.edu/bugs/?search=gabe+sherman).
+I'm a security-focused Ph.D. researcher specializing in automated vulnerability discovery, fuzz testing, and large-scale
+tooling for secure systems. I’m particularly interested in expanding the scope and scale of software testing across
+an increasingly complex software ecosystem. 
+Some of the bugs I've found can be found [here](https://futures.cs.utah.edu/bugs/?search=gabe+sherman).
 
 ## Publications
 
@@ -28,9 +31,9 @@ My research focuses on fuzz testing, with a strong passion for proactively secur
   </thead>
   <tbody>
     <tr>
-      <td>Checksec Anywhere: Checksec Without Boundaries</td>
-      <td>Trail of Bits Intern Showcase</td>
-      <td>07/2025</td>
+      <td>Building checksec without boundaries with Checksec Anywhere</td>
+      <td>The Trail of Bits Blog</td>
+      <td>11/2025</td>
     </tr>
     <tr>
       <td>Introduction to Fuzzing</td>

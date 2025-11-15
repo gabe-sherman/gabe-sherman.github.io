@@ -5,6 +5,7 @@ tags: [harnessing, fuzzing]
 comments: true
 mathjax: true
 author: Gabriel Sherman
+show-avatar: false
 ---
 As a newcomer to the computer security world working on my first paper, *[No Harness, No Problem: Oracle-guided Harnessing for Auto-generating C API Fuzzing Harnesses](https://futures.cs.utah.edu/papers/25ICSE-b.pdf)*, I inevitably spent countless hours studying, building, and running fuzzing harnesses. This guide aims to answer the questions and issues I struggled with early on, along with common mistakes and topics I’ve since helped others work through.
 
